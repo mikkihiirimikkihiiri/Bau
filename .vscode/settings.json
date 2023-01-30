@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 {
     "python.pythonPath": "C:\\Users\\antti\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+=======
+{
+    "python.analysis.typeCheckingMode": "basic"
+>>>>>>> d9429f5e3838e97ee53e086d8fe9b2d6b9b304d3
 }
